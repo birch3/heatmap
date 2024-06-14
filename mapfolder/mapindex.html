@@ -66,6 +66,10 @@ Berbera,10.438621,45.0134,Earthquake causes significant damage,2023-05-22,2023-0
                 console.error(`Invalid data: ${row.Latitude}, ${row.Longitude}, ${row.URL}`);
             }
         }
+
+        fetch('data.csv')
+            .then(response=>response.text())
+            .then(csvData=>{
         Papa.parse(csvData, {
             header: true,
             complete: function (results) {
@@ -100,6 +104,7 @@ Berbera,10.438621,45.0134,Earthquake causes significant damage,2023-05-22,2023-0
                 })
             }
         })
+    })
 
     </script>
 </body>
