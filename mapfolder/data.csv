@@ -1,0 +1,21 @@
+﻿City,Latitude,Longitude,News_Event,Starting_Date,End_Date,URL,Topic,Severity
+Mogadishu,2.046934,45.318161,Severe flooding displaces thousands,2023-11-08,2023-11-15,example.com/mogadishu-flooding,Natural Disaster,High
+Hargeisa,9.562389,44.077011,Armed clashes between local militias,2024-02-15,2024-02-20,example.com/hargeisa-clashes,Violence,High
+Berbera,10.438621,45.0134,Earthquake causes significant damage,2023-05-22,2023-05-23,example.com/berbera-earthquake,Natural Disaster,High
+Kismayo,-0.35817,42.54536,Cyclone hits coastal areas,2024-03-10,2024-03-12,example.com/kismayo-cyclone,Natural Disaster,High
+Baidoa,3.119951,43.644462,Drought leads to severe food shortages,2023-07-19,2023-08-19,example.com/baidoa-drought,Natural Disaster,Medium
+Beledweyne,4.736773,45.203888,River flooding submerges large parts of the city,2023-11-18,2023-11-25,example.com/beledweyne-flooding,Natural Disaster,High
+Afgooye,2.146029,45.119038,Armed conflict between government forces and militants,2024-01-05,2024-01-10,example.com/afgooye-conflict,Violence,High
+Burao,9.52749,45.537472,Flash floods cause widespread displacement,2023-09-30,2023-10-05,example.com/burao-flash-floods,Natural Disaster,Medium
+Bosaso,11.275541,49.187901,Port city hit by severe storm,2024-04-25,2024-04-27,example.com/bosaso-storm,Natural Disaster,High
+Garowe,8.408416,48.483723,Political violence erupts during parliamentary debate,2023-06-20,2023-06-22,example.com/garowe-political-violence,Violence,Medium
+Galkayo,6.787273,47.439236,Clashes between rival clans,2024-02-28,2024-03-05,example.com/galkayo-clan-clashes,Violence,High
+Jawhar,2.78087,45.50048,Severe drought impacts agriculture,2023-08-14,2023-09-14,example.com/jawhar-drought,Natural Disaster,Medium
+Marka,1.71594,44.77166,Coastal flooding due to heavy rains,2023-10-05,2023-10-10,example.com/marka-coastal-flooding,Natural Disaster,Medium
+Jamaame,0.06968,42.74497,River overflow causes extensive damage,2024-03-15,2024-03-20,example.com/jamaame-river-overflow,Natural Disaster,High
+Baardheere,2.34464,42.27644,Armed conflict displaces thousands,2023-12-01,2023-12-10,example.com/baardheere-armed-conflict,Violence,High
+Cadale,2.03711,45.34375,Cyclone causes severe damage to infrastructure,2024-01-20,2024-01-25,example.com/cadale-cyclone,Natural Disaster,High
+Eyl,8.408416,48.483723,Flash floods disrupt local communities,2023-11-25,2023-12-01,example.com/eyl-flash-floods,Natural Disaster,Medium
+Hobyo,5.1521,46.1996,Armed clashes between local militias,2024-02-10,2024-02-15,example.com/hobyo-armed-clashes,Violence,High
+Luuq,3.119951,43.644462,Severe flooding isolates the town,2023-11-12,2023-11-18,example.com/luuq-severe-flooding,Natural Disaster,High
+Qoryooley,1.78784,44.52999,Drought leads to water shortages,2023-09-05,2023-09-30,example.com/qoryooley-drought,Natural Disaster,Medium
